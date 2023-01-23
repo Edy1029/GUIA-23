@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Canal a+">
     <display-name lang="es">A+ SD</display-name>
+    <display-name lang="es">A+ HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Atreseries (Internacional)">
@@ -57,7 +58,7 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Azteca 7  (México)">
-    <display-name lang="es">AZTECA 7</display-name>
+    <display-name lang="es">AZTECA 7 SD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Azteca Uno">
@@ -74,86 +75,6 @@
   </channel>
   <channel id="Canal 5 de México (XHGC)">
     <display-name lang="es">CANAL 5 SD</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Cartoon Network">
-    <display-name lang="es">Canal Cartoon Network</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Cinecanal">
-    <display-name lang="es">Canal Cinecanal</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Cinemax México">
-    <display-name lang="es">Canal Cinemax México</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Claro Sports">
-    <display-name lang="es">Canal Claro Sports</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Comedy Central Latinoamérica">
-    <display-name lang="es">Canal Comedy Central Latinoamérica</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal De Pelicula">
-    <display-name lang="es">Canal De Pelicula</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Discovery">
-    <display-name lang="es">Canal Discovery</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Discovery Kids">
-    <display-name lang="es">Canal Discovery Kids</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Disney Channel">
-    <display-name lang="es">Canal Disney Channel</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Disney Junior">
-    <display-name lang="es">Canal Disney Junior</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Distrito Comedia">
-    <display-name lang="es">Canal Distrito Comedia</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal E! Entertainment Television (Latinoamérica)">
-    <display-name lang="es">Canal E! Entertainment Television (Latinoamérica)</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Elgourmet">
-    <display-name lang="es">Canal Elgourmet</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal 9 de México (XEQ-TDT)">
-    <display-name lang="es">Canal Elgourmet</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal ESPN (México)">
-    <display-name lang="es">Canal ESPN (México)</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal ESPN 2">
-    <display-name lang="es">Canal ESPN 2</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal ESPN 3 Latinoamérica">
-    <display-name lang="es">Canal ESPN 3 Latinoamérica</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Eurochannel">
-    <display-name lang="es">Canal Eurochannel</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Film &amp; Arts">
-    <display-name lang="es">Canal Film &amp; Arts</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Foro TV">
-    <display-name lang="es">Canal Foro TV</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <programme start="20230123003000 -0600" stop="20230123023000 -0600" channel="Canal a+">
@@ -1454,95 +1375,5 @@
   </programme>
   <programme start="20230123220000 -0600" stop="20230124000000 -0600" channel="Canal 5 de México (XHGC)">
     <title lang="es">La Reina del Sur</title>
-  </programme>
-  <programme start="20230123003100 -0600" stop="20230123005600 -0600" channel="Canal Cartoon Network">
-    <title lang="es">El Increíble Mundo de Gumball</title>
-  </programme>
-  <programme start="20230123005600 -0600" stop="20230123015700 -0600" channel="Canal Cartoon Network">
-    <title lang="es">El mundo de Craig</title>
-  </programme>
-  <programme start="20230123015700 -0600" stop="20230123025600 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-  </programme>
-  <programme start="20230123025600 -0600" stop="20230123035700 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Steven universe</title>
-  </programme>
-  <programme start="20230123035700 -0600" stop="20230123045900 -0600" channel="Canal Cartoon Network">
-    <title lang="es">El Increíble Mundo de Gumball</title>
-  </programme>
-  <programme start="20230123045900 -0600" stop="20230123060000 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Escandalosos</title>
-  </programme>
-  <programme start="20230123060000 -0600" stop="20230123070300 -0600" channel="Canal Cartoon Network">
-    <title lang="es">El Increíble Mundo de Gumball</title>
-  </programme>
-  <programme start="20230123070300 -0600" stop="20230123072700 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Drama total: La guardería</title>
-  </programme>
-  <programme start="20230123072700 -0600" stop="20230123082700 -0600" channel="Canal Cartoon Network">
-    <title lang="es">El mundo de Craig</title>
-  </programme>
-  <programme start="20230123082700 -0600" stop="20230123090400 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Manzana y Cebollín</title>
-  </programme>
-  <programme start="20230123090400 -0600" stop="20230123092900 -0600" channel="Canal Cartoon Network">
-    <title lang="es">El Increíble Mundo de Gumball</title>
-  </programme>
-  <programme start="20230123092900 -0600" stop="20230123102700 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-  </programme>
-  <programme start="20230123102700 -0600" stop="20230123110200 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Drama total: La guardería</title>
-  </programme>
-  <programme start="20230123110200 -0600" stop="20230123112600 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Barbie It Takes Two</title>
-  </programme>
-  <programme start="20230123112600 -0600" stop="20230123122700 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Escandalosos</title>
-  </programme>
-  <programme start="20230123122700 -0600" stop="20230123130400 -0600" channel="Canal Cartoon Network">
-    <title lang="es">We Baby Bears</title>
-  </programme>
-  <programme start="20230123130400 -0600" stop="20230123140300 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-  </programme>
-  <programme start="20230123140300 -0600" stop="20230123142700 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Drama total: La guardería</title>
-  </programme>
-  <programme start="20230123142700 -0600" stop="20230123150400 -0600" channel="Canal Cartoon Network">
-    <title lang="es">El mundo de Craig</title>
-  </programme>
-  <programme start="20230123150400 -0600" stop="20230123160200 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Drama total: La guardería</title>
-  </programme>
-  <programme start="20230123160200 -0600" stop="20230123165300 -0600" channel="Canal Cartoon Network">
-    <title lang="es">El Increíble Mundo de Gumball</title>
-  </programme>
-  <programme start="20230123165300 -0600" stop="20230123174500 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Escandalosos</title>
-  </programme>
-  <programme start="20230123174500 -0600" stop="20230123180000 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Lamput</title>
-  </programme>
-  <programme start="20230123180000 -0600" stop="20230123183400 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-  </programme>
-  <programme start="20230123183400 -0600" stop="20230123191400 -0600" channel="Canal Cartoon Network">
-    <title lang="es">We Baby Bears</title>
-  </programme>
-  <programme start="20230123191400 -0600" stop="20230123200000 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-  </programme>
-  <programme start="20230123200000 -0600" stop="20230123210300 -0600" channel="Canal Cartoon Network">
-    <title lang="es">El Increíble Mundo de Gumball</title>
-  </programme>
-  <programme start="20230123210300 -0600" stop="20230123220200 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Drama total: La guardería</title>
-  </programme>
-  <programme start="20230123220200 -0600" stop="20230123230000 -0600" channel="Canal Cartoon Network">
-    <title lang="es">Los Jóvenes Titanes En Acción</title>
-  </programme>
-  <programme start="20230123230000 -0600" stop="20230124000300 -0600" channel="Canal Cartoon Network">
-    <title lang="es">El Increíble Mundo de Gumball</title>
   </programme>
 </tv>
