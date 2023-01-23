@@ -1,0 +1,1548 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal a+">
+    <display-name lang="es">A+ SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Atreseries (Internacional)">
+    <display-name lang="es">A3SERIES SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AMC HD Latinoamérica">
+    <display-name lang="es">AMC SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal A&amp;E (Latinoamérica)">
+    <display-name lang="es">A&amp;E SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ADN 40">
+    <display-name lang="es">ADN 40 SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Adrenalina Sports Network">
+    <display-name lang="es">ADRENALINA SPORTS SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Animal Planet">
+    <display-name lang="es">ANIMAL PLANET SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Antena 3">
+    <display-name lang="es">ANTENA 3 SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AXN (México)">
+    <display-name lang="es">AXN SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AYM Sports">
+    <display-name lang="es">AYM SPORTS SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinema">
+    <display-name lang="es">AZTECA CINEMA SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Clic">
+    <display-name lang="es">AZTECA CLIC SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AZCorazón">
+    <display-name lang="es">AZTECA CORAZON SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal AZMundo">
+    <display-name lang="es">AZTECA MUNDO SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Azteca 7  (México)">
+    <display-name lang="es">AZTECA 7</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Azteca Uno">
+    <display-name lang="es">AZTECA UNO SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Bitme">
+    <display-name lang="es">BITME SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cartoonito (México)">
+    <display-name lang="es">CARTOONITO SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 5 de México (XHGC)">
+    <display-name lang="es">CANAL 5 SD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cartoon Network">
+    <display-name lang="es">Canal Cartoon Network</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinecanal">
+    <display-name lang="es">Canal Cinecanal</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Cinemax México">
+    <display-name lang="es">Canal Cinemax México</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Claro Sports">
+    <display-name lang="es">Canal Claro Sports</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Comedy Central Latinoamérica">
+    <display-name lang="es">Canal Comedy Central Latinoamérica</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal De Pelicula">
+    <display-name lang="es">Canal De Pelicula</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery">
+    <display-name lang="es">Canal Discovery</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Discovery Kids">
+    <display-name lang="es">Canal Discovery Kids</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Disney Channel">
+    <display-name lang="es">Canal Disney Channel</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Disney Junior">
+    <display-name lang="es">Canal Disney Junior</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Distrito Comedia">
+    <display-name lang="es">Canal Distrito Comedia</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal E! Entertainment Television (Latinoamérica)">
+    <display-name lang="es">Canal E! Entertainment Television (Latinoamérica)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Elgourmet">
+    <display-name lang="es">Canal Elgourmet</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal 9 de México (XEQ-TDT)">
+    <display-name lang="es">Canal Elgourmet</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN (México)">
+    <display-name lang="es">Canal ESPN (México)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN 2">
+    <display-name lang="es">Canal ESPN 2</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal ESPN 3 Latinoamérica">
+    <display-name lang="es">Canal ESPN 3 Latinoamérica</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Eurochannel">
+    <display-name lang="es">Canal Eurochannel</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Film &amp; Arts">
+    <display-name lang="es">Canal Film &amp; Arts</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Foro TV">
+    <display-name lang="es">Canal Foro TV</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20230123003000 -0600" stop="20230123023000 -0600" channel="Canal a+">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20230123023000 -0600" stop="20230123043000 -0600" channel="Canal a+">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20230123043000 -0600" stop="20230123050000 -0600" channel="Canal a+">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20230123050000 -0600" stop="20230123051500 -0600" channel="Canal a+">
+    <title lang="es">RTC</title>
+  </programme>
+  <programme start="20230123051500 -0600" stop="20230123053000 -0600" channel="Canal a+">
+    <title lang="es">Excelente Servicio ALV</title>
+  </programme>
+  <programme start="20230123053000 -0600" stop="20230123073000 -0600" channel="Canal a+">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123073000 -0600" stop="20230123090000 -0600" channel="Canal a+">
+    <title lang="es">Naturista Naturalmente</title>
+  </programme>
+  <programme start="20230123090000 -0600" stop="20230123093000 -0600" channel="Canal a+">
+    <title lang="es">Chaman Felipe</title>
+  </programme>
+  <programme start="20230123093000 -0600" stop="20230123103000 -0600" channel="Canal a+">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123103000 -0600" stop="20230123110000 -0600" channel="Canal a+">
+    <title lang="es">Chisme No Like</title>
+  </programme>
+  <programme start="20230123110000 -0600" stop="20230123123000 -0600" channel="Canal a+">
+    <title lang="es">Quiéreme tonto</title>
+  </programme>
+  <programme start="20230123123000 -0600" stop="20230123133000 -0600" channel="Canal a+">
+    <title lang="es">Deseo prohibido</title>
+  </programme>
+  <programme start="20230123133000 -0600" stop="20230123143000 -0600" channel="Canal a+">
+    <title lang="es">Mientras haya vida</title>
+  </programme>
+  <programme start="20230123143000 -0600" stop="20230123153000 -0600" channel="Canal a+">
+    <title lang="es">Tengo todo excepto a ti</title>
+  </programme>
+  <programme start="20230123153000 -0600" stop="20230123170000 -0600" channel="Canal a+">
+    <title lang="es">La mujer de Judas</title>
+  </programme>
+  <programme start="20230123170000 -0600" stop="20230123184500 -0600" channel="Canal a+">
+    <title lang="es">Cara de Ángel</title>
+  </programme>
+  <programme start="20230123060000 -0600" stop="20230123063200 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20230123063200 -0600" stop="20230123072600 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">La Dueña</title>
+  </programme>
+  <programme start="20230123072600 -0600" stop="20230123083100 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">El Secreto de Puente Viejo</title>
+  </programme>
+  <programme start="20230123083100 -0600" stop="20230123104500 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Pop up: aquí no hay quien viva</title>
+  </programme>
+  <programme start="20230123104500 -0600" stop="20230123115600 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20230123115600 -0600" stop="20230123125100 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Corran por sus vidas</title>
+  </programme>
+  <programme start="20230123125100 -0600" stop="20230123134500 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">La Dueña</title>
+  </programme>
+  <programme start="20230123134500 -0600" stop="20230123140600 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20230123140600 -0600" stop="20230123150100 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">El otro lado del paraíso</title>
+  </programme>
+  <programme start="20230123150100 -0600" stop="20230123164600 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Bandolera</title>
+  </programme>
+  <programme start="20230123164600 -0600" stop="20230123175300 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">El Secreto de Puente Viejo</title>
+  </programme>
+  <programme start="20230123175300 -0600" stop="20230123184900 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Corran por sus vidas</title>
+  </programme>
+  <programme start="20230123184900 -0600" stop="20230123200000 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20230123200000 -0600" stop="20230123210000 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">El incidente</title>
+  </programme>
+  <programme start="20230123210000 -0600" stop="20230123221500 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">El otro lado del paraíso</title>
+  </programme>
+  <programme start="20230123221500 -0600" stop="20230123230000 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">Más de series</title>
+  </programme>
+  <programme start="20230123230000 -0600" stop="20230124001500 -0600" channel="Canal Atreseries (Internacional)">
+    <title lang="es">La Dueña</title>
+  </programme>
+  <programme start="20230123003000 -0600" stop="20230123022000 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Los indestructibles 2</title>
+  </programme>
+  <programme start="20230123022000 -0600" stop="20230123040500 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">El Mecánico</title>
+  </programme>
+  <programme start="20230123040500 -0600" stop="20230123060500 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">La gran explosión</title>
+  </programme>
+  <programme start="20230123060500 -0600" stop="20230123063000 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20230123063000 -0600" stop="20230123073000 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20230123073000 -0600" stop="20230123081000 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20230123081000 -0600" stop="20230123083000 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20230123083000 -0600" stop="20230123090000 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20230123090000 -0600" stop="20230123093000 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20230123093000 -0600" stop="20230123100000 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Planet Action</title>
+  </programme>
+  <programme start="20230123100000 -0600" stop="20230123120500 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Walt antes de Mickey</title>
+  </programme>
+  <programme start="20230123120500 -0600" stop="20230123141000 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Colossal (2017)</title>
+  </programme>
+  <programme start="20230123141000 -0600" stop="20230123161500 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">El Robo de tus Sueños</title>
+  </programme>
+  <programme start="20230123161500 -0600" stop="20230123181500 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Alquiler de padrinos</title>
+  </programme>
+  <programme start="20230123181500 -0600" stop="20230123201500 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Aguas profundas</title>
+  </programme>
+  <programme start="20230123201500 -0600" stop="20230123220000 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Apuesta Máxima</title>
+  </programme>
+  <programme start="20230123220000 -0600" stop="20230123235000 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Después de la Tierra</title>
+  </programme>
+  <programme start="20230123235000 -0600" stop="20230124015500 -0600" channel="Canal AMC HD Latinoamérica">
+    <title lang="es">Asesinos de élite</title>
+  </programme>
+  <programme start="20230123004000 -0600" stop="20230123021500 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Warren Jeffs Profeta del mal</title>
+  </programme>
+  <programme start="20230123021500 -0600" stop="20230123031000 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Detectives y ADN</title>
+  </programme>
+  <programme start="20230123031000 -0600" stop="20230123040500 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Detectives y ADN</title>
+  </programme>
+  <programme start="20230123040500 -0600" stop="20230123050000 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Detectives y ADN</title>
+  </programme>
+  <programme start="20230123050000 -0600" stop="20230123060000 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Acumuladores compulsivos</title>
+  </programme>
+  <programme start="20230123060000 -0600" stop="20230123070000 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123070000 -0600" stop="20230123080000 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123080000 -0600" stop="20230123090000 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123090000 -0600" stop="20230123100000 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123100000 -0600" stop="20230123120500 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">En la mente del asesino</title>
+  </programme>
+  <programme start="20230123120500 -0600" stop="20230123130500 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Acusado Culpable o inocente</title>
+  </programme>
+  <programme start="20230123130500 -0600" stop="20230123144500 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">911 Llamada mortal</title>
+  </programme>
+  <programme start="20230123144500 -0600" stop="20230123154000 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20230123154000 -0600" stop="20230123163500 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Adicción digital</title>
+  </programme>
+  <programme start="20230123163500 -0600" stop="20230123173000 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Pablo Escobar El patrón del mal</title>
+  </programme>
+  <programme start="20230123173000 -0600" stop="20230123191000 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">No confíes en nadie</title>
+  </programme>
+  <programme start="20230123191000 -0600" stop="20230123210000 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">La hija de Dios</title>
+  </programme>
+  <programme start="20230123210000 -0600" stop="20230123215500 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Pablo Escobar El patrón del mal</title>
+  </programme>
+  <programme start="20230123215500 -0600" stop="20230123225000 -0600" channel="Canal A&amp;E (Latinoamérica)">
+    <title lang="es">Orígenes de un crimen</title>
+  </programme>
+  <programme start="20230123013000 -0600" stop="20230123033000 -0600" channel="Canal ADN 40">
+    <title lang="es">En Resumidas Cuentas</title>
+  </programme>
+  <programme start="20230123033000 -0600" stop="20230123040000 -0600" channel="Canal ADN 40">
+    <title lang="es">En Resumidas Cuentas</title>
+  </programme>
+  <programme start="20230123040000 -0600" stop="20230123053000 -0600" channel="Canal ADN 40">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123053000 -0600" stop="20230123063000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias para despertar</title>
+  </programme>
+  <programme start="20230123063000 -0600" stop="20230123070000 -0600" channel="Canal ADN 40">
+    <title lang="es">Tu Ciudad en Tiempo Real</title>
+  </programme>
+  <programme start="20230123070000 -0600" stop="20230123080000 -0600" channel="Canal ADN 40">
+    <title lang="es">Así Amanece Leonardo Curzio</title>
+  </programme>
+  <programme start="20230123080000 -0600" stop="20230123090000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias a ras de tierra</title>
+  </programme>
+  <programme start="20230123090000 -0600" stop="20230123093000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX Valentina Rodríguez</title>
+  </programme>
+  <programme start="20230123093000 -0600" stop="20230123100000 -0600" channel="Canal ADN 40">
+    <title lang="es">Tren del Meme</title>
+  </programme>
+  <programme start="20230123100000 -0600" stop="20230123120000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN Conmigo</title>
+  </programme>
+  <programme start="20230123120000 -0600" stop="20230123130000 -0600" channel="Canal ADN 40">
+    <title lang="es">México en Tiempo Real</title>
+  </programme>
+  <programme start="20230123130000 -0600" stop="20230123140000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX con Alejandra Molina</title>
+  </programme>
+  <programme start="20230123140000 -0600" stop="20230123143000 -0600" channel="Canal ADN 40">
+    <title lang="es">A quien corresponda</title>
+  </programme>
+  <programme start="20230123143000 -0600" stop="20230123150000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Negocio con Carlos Mota</title>
+  </programme>
+  <programme start="20230123150000 -0600" stop="20230123160000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Tendencia Jose Luis Mora</title>
+  </programme>
+  <programme start="20230123160000 -0600" stop="20230123170000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX con Romina Ramos</title>
+  </programme>
+  <programme start="20230123170000 -0600" stop="20230123180000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX con Luciana Wainer</title>
+  </programme>
+  <programme start="20230123180000 -0600" stop="20230123190000 -0600" channel="Canal ADN 40">
+    <title lang="es">ADN40.MX con Alejandro Brofft</title>
+  </programme>
+  <programme start="20230123190000 -0600" stop="20230123200000 -0600" channel="Canal ADN 40">
+    <title lang="es">Tu Ciudad en Tiempo Real</title>
+  </programme>
+  <programme start="20230123200000 -0600" stop="20230123210000 -0600" channel="Canal ADN 40">
+    <title lang="es">Red 360 con Lucy Bravo</title>
+  </programme>
+  <programme start="20230123210000 -0600" stop="20230123220000 -0600" channel="Canal ADN 40">
+    <title lang="es">Es Noticia con Hannia Novell</title>
+  </programme>
+  <programme start="20230123220000 -0600" stop="20230123230000 -0600" channel="Canal ADN 40">
+    <title lang="es">Noticias Republica MX</title>
+  </programme>
+  <programme start="20230123230000 -0600" stop="20230123233000 -0600" channel="Canal ADN 40">
+    <title lang="es">Todo Personal</title>
+  </programme>
+  <programme start="20230123233000 -0600" stop="20230123234500 -0600" channel="Canal ADN 40">
+    <title lang="es">Primer Círculo</title>
+  </programme>
+  <programme start="20230123234500 -0600" stop="20230124000000 -0600" channel="Canal ADN 40">
+    <title lang="es">La Billetera</title>
+  </programme>
+  <programme start="20230123003500 -0600" stop="20230123014500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Rony Jason vs. Edgar Diaz Repetición</title>
+  </programme>
+  <programme start="20230123014500 -0600" stop="20230123023500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Cloroformo</title>
+  </programme>
+  <programme start="20230123023500 -0600" stop="20230123033500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">La guarida del Mostro</title>
+  </programme>
+  <programme start="20230123033500 -0600" stop="20230123043500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Vive en equilibrio</title>
+  </programme>
+  <programme start="20230123043500 -0600" stop="20230123082000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
+  <programme start="20230123082000 -0600" stop="20230123092000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">La guarida del Mostro</title>
+  </programme>
+  <programme start="20230123092000 -0600" stop="20230123102500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Rony Jason vs. Edgar Diaz Repetición</title>
+  </programme>
+  <programme start="20230123102500 -0600" stop="20230123112000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Lopes vs. Mandarina Repetición</title>
+  </programme>
+  <programme start="20230123112000 -0600" stop="20230123121000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Cloroformo</title>
+  </programme>
+  <programme start="20230123121000 -0600" stop="20230123131000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Hoy Futbol Repetición</title>
+  </programme>
+  <programme start="20230123131000 -0600" stop="20230123140500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Diego Lopes vs. Marco Beltran</title>
+  </programme>
+  <programme start="20230123140500 -0600" stop="20230123150000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Vámonos de Largo En Vivo</title>
+  </programme>
+  <programme start="20230123150000 -0600" stop="20230123183000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Corrida de Toros</title>
+  </programme>
+  <programme start="20230123183000 -0600" stop="20230123190000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Vive en equilibrio</title>
+  </programme>
+  <programme start="20230123190000 -0600" stop="20230123200000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Cloroformo</title>
+  </programme>
+  <programme start="20230123200000 -0600" stop="20230123205500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Vámonos de Largo Repetición</title>
+  </programme>
+  <programme start="20230123205500 -0600" stop="20230123220500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Drako vs. Hooligan 2 Repetición</title>
+  </programme>
+  <programme start="20230123220500 -0600" stop="20230123230500 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">La guarida del Mostro</title>
+  </programme>
+  <programme start="20230123230500 -0600" stop="20230124000000 -0600" channel="Canal Adrenalina Sports Network">
+    <title lang="es">Hoy Futbol En Vivo</title>
+  </programme>
+  <programme start="20230123001900 -0600" stop="20230123011500 -0600" channel="Canal Animal Planet">
+    <title lang="es">Siete mundos, un planeta</title>
+  </programme>
+  <programme start="20230123011500 -0600" stop="20230123020500 -0600" channel="Canal Animal Planet">
+    <title lang="es">Supervivencia Salvaje</title>
+  </programme>
+  <programme start="20230123020500 -0600" stop="20230123025500 -0600" channel="Canal Animal Planet">
+    <title lang="es">Supervivencia Salvaje</title>
+  </programme>
+  <programme start="20230123025500 -0600" stop="20230123034500 -0600" channel="Canal Animal Planet">
+    <title lang="es">Supervivencia Salvaje</title>
+  </programme>
+  <programme start="20230123034500 -0600" stop="20230123043500 -0600" channel="Canal Animal Planet">
+    <title lang="es">Supervivencia Salvaje</title>
+  </programme>
+  <programme start="20230123043500 -0600" stop="20230123050000 -0600" channel="Canal Animal Planet">
+    <title lang="es">Mi perro ideal</title>
+  </programme>
+  <programme start="20230123050000 -0600" stop="20230123055000 -0600" channel="Canal Animal Planet">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20230123055000 -0600" stop="20230123064000 -0600" channel="Canal Animal Planet">
+    <title lang="es">Veterinarios de Texas</title>
+  </programme>
+  <programme start="20230123064000 -0600" stop="20230123073000 -0600" channel="Canal Animal Planet">
+    <title lang="es">El zoológico del Bronx</title>
+  </programme>
+  <programme start="20230123073000 -0600" stop="20230123080000 -0600" channel="Canal Animal Planet">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20230123080000 -0600" stop="20230123083000 -0600" channel="Canal Animal Planet">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20230123083000 -0600" stop="20230123090000 -0600" channel="Canal Animal Planet">
+    <title lang="es">Televentas</title>
+  </programme>
+  <programme start="20230123090000 -0600" stop="20230123093000 -0600" channel="Canal Animal Planet">
+    <title lang="es">Pequeños gigantes de la naturaleza</title>
+  </programme>
+  <programme start="20230123093000 -0600" stop="20230123102400 -0600" channel="Canal Animal Planet">
+    <title lang="es">Los Irwin</title>
+  </programme>
+  <programme start="20230123102400 -0600" stop="20230123111700 -0600" channel="Canal Animal Planet">
+    <title lang="es">El acuario</title>
+  </programme>
+  <programme start="20230123111700 -0600" stop="20230123121000 -0600" channel="Canal Animal Planet">
+    <title lang="es">Dra. Dee: Veterinaria de Alaska</title>
+  </programme>
+  <programme start="20230123121000 -0600" stop="20230123130300 -0600" channel="Canal Animal Planet">
+    <title lang="es">Piscinas increíbles</title>
+  </programme>
+  <programme start="20230123130300 -0600" stop="20230123135600 -0600" channel="Canal Animal Planet">
+    <title lang="es">Siete mundos, un planeta</title>
+  </programme>
+  <programme start="20230123135600 -0600" stop="20230123144900 -0600" channel="Canal Animal Planet">
+    <title lang="es">Criaturas misteriosas con Forrest Galante</title>
+  </programme>
+  <programme start="20230123144900 -0600" stop="20230123154200 -0600" channel="Canal Animal Planet">
+    <title lang="es">Criaturas misteriosas con Forrest Galante</title>
+  </programme>
+  <programme start="20230123154200 -0600" stop="20230123163500 -0600" channel="Canal Animal Planet">
+    <title lang="es">Criaturas misteriosas con Forrest Galante</title>
+  </programme>
+  <programme start="20230123163500 -0600" stop="20230123172800 -0600" channel="Canal Animal Planet">
+    <title lang="es">Criaturas misteriosas con Forrest Galante</title>
+  </programme>
+  <programme start="20230123172800 -0600" stop="20230123182100 -0600" channel="Canal Animal Planet">
+    <title lang="es">Wild Frank en África</title>
+  </programme>
+  <programme start="20230123182100 -0600" stop="20230123191400 -0600" channel="Canal Animal Planet">
+    <title lang="es">Con el agua al cuello</title>
+  </programme>
+  <programme start="20230123191400 -0600" stop="20230123200700 -0600" channel="Canal Animal Planet">
+    <title lang="es">Veterinarios de Texas</title>
+  </programme>
+  <programme start="20230123200700 -0600" stop="20230123210000 -0600" channel="Canal Animal Planet">
+    <title lang="es">El zoológico del Bronx</title>
+  </programme>
+  <programme start="20230123210000 -0600" stop="20230123215300 -0600" channel="Canal Animal Planet">
+    <title lang="es">Los Irwin</title>
+  </programme>
+  <programme start="20230123215300 -0600" stop="20230123224600 -0600" channel="Canal Animal Planet">
+    <title lang="es">El acuario</title>
+  </programme>
+  <programme start="20230123000800 -0600" stop="20230123014000 -0600" channel="Canal Antena 3">
+    <title lang="es">Zapeando</title>
+  </programme>
+  <programme start="20230123014000 -0600" stop="20230123015500 -0600" channel="Canal Antena 3">
+    <title lang="es">Noticias directo</title>
+  </programme>
+  <programme start="20230123015500 -0600" stop="20230123035500 -0600" channel="Canal Antena 3">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20230123035500 -0600" stop="20230123055500 -0600" channel="Canal Antena 3">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20230123055500 -0600" stop="20230123063000 -0600" channel="Canal Antena 3">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20230123063000 -0600" stop="20230123065900 -0600" channel="Canal Antena 3">
+    <title lang="es">Cocina abierta</title>
+  </programme>
+  <programme start="20230123065900 -0600" stop="20230123075900 -0600" channel="Canal Antena 3">
+    <title lang="es">El Chiringuito internacional</title>
+  </programme>
+  <programme start="20230123075900 -0600" stop="20230123084700 -0600" channel="Canal Antena 3">
+    <title lang="es">Noticias 1</title>
+  </programme>
+  <programme start="20230123084700 -0600" stop="20230123122700 -0600" channel="Canal Antena 3">
+    <title lang="es">Espejo público</title>
+  </programme>
+  <programme start="20230123122700 -0600" stop="20230123124600 -0600" channel="Canal Antena 3">
+    <title lang="es">Tu tiempo con Roberto Brasero</title>
+  </programme>
+  <programme start="20230123124600 -0600" stop="20230123131400 -0600" channel="Canal Antena 3">
+    <title lang="es">Cocina abierta</title>
+  </programme>
+  <programme start="20230123131400 -0600" stop="20230123140700 -0600" channel="Canal Antena 3">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20230123140700 -0600" stop="20230123144800 -0600" channel="Canal Antena 3">
+    <title lang="es">Noticias 2</title>
+  </programme>
+  <programme start="20230123144800 -0600" stop="20230123161500 -0600" channel="Canal Antena 3">
+    <title lang="es">Y ahora, Sonsoles</title>
+  </programme>
+  <programme start="20230123161500 -0600" stop="20230123172000 -0600" channel="Canal Antena 3">
+    <title lang="es">Amar es para siempre</title>
+  </programme>
+  <programme start="20230123172000 -0600" stop="20230123183000 -0600" channel="Canal Antena 3">
+    <title lang="es">La ruleta de la suerte</title>
+  </programme>
+  <programme start="20230123183000 -0600" stop="20230123193000 -0600" channel="Canal Antena 3">
+    <title lang="es">Pasapalabra</title>
+  </programme>
+  <programme start="20230123193000 -0600" stop="20230123203100 -0600" channel="Canal Antena 3">
+    <title lang="es">El hormiguero 3.0</title>
+  </programme>
+  <programme start="20230123203100 -0600" stop="20230123213600 -0600" channel="Canal Antena 3">
+    <title lang="es">Salvados</title>
+  </programme>
+  <programme start="20230123213600 -0600" stop="20230123230000 -0600" channel="Canal Antena 3">
+    <title lang="es">Los hombres de Paco</title>
+  </programme>
+  <programme start="20230123230000 -0600" stop="20230124000800 -0600" channel="Canal Antena 3">
+    <title lang="es">El Chiringuito internacional</title>
+  </programme>
+  <programme start="20230123003000 -0600" stop="20230123012500 -0600" channel="Canal AXN (México)">
+    <title lang="es">Distric</title>
+  </programme>
+  <programme start="20230123012500 -0600" stop="20230123022000 -0600" channel="Canal AXN (México)">
+    <title lang="es">Distric</title>
+  </programme>
+  <programme start="20230123022000 -0600" stop="20230123031500 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20230123031500 -0600" stop="20230123041000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20230123041000 -0600" stop="20230123050500 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20230123050500 -0600" stop="20230123060000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20230123060000 -0600" stop="20230123065000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20230123065000 -0600" stop="20230123074000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20230123074000 -0600" stop="20230123083000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI</title>
+  </programme>
+  <programme start="20230123083000 -0600" stop="20230123092000 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230123092000 -0600" stop="20230123101000 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS: Los Ángeles</title>
+  </programme>
+  <programme start="20230123101000 -0600" stop="20230123110000 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20230123110000 -0600" stop="20230123115000 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS: New Orleans</title>
+  </programme>
+  <programme start="20230123115000 -0600" stop="20230123124500 -0600" channel="Canal AXN (México)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20230123124500 -0600" stop="20230123134000 -0600" channel="Canal AXN (México)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20230123134000 -0600" stop="20230123143500 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20230123143500 -0600" stop="20230123153000 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20230123153000 -0600" stop="20230123162500 -0600" channel="Canal AXN (México)">
+    <title lang="es">CSI: Miami</title>
+  </programme>
+  <programme start="20230123162500 -0600" stop="20230123172000 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230123172000 -0600" stop="20230123181500 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230123181500 -0600" stop="20230123191000 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230123191000 -0600" stop="20230123200500 -0600" channel="Canal AXN (México)">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20230123200500 -0600" stop="20230123210000 -0600" channel="Canal AXN (México)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20230123210000 -0600" stop="20230123220000 -0600" channel="Canal AXN (México)">
+    <title lang="es">Candice renoir</title>
+  </programme>
+  <programme start="20230123220000 -0600" stop="20230123230000 -0600" channel="Canal AXN (México)">
+    <title lang="es">Balthazar</title>
+  </programme>
+  <programme start="20230123230000 -0600" stop="20230123235000 -0600" channel="Canal AXN (México)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20230123235000 -0600" stop="20230124004000 -0600" channel="Canal AXN (México)">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20230123020000 -0600" stop="20230123063000 -0600" channel="Canal AYM Sports">
+    <title lang="es">Béisbol Liga Mexicana</title>
+  </programme>
+  <programme start="20230123063000 -0600" stop="20230123070000 -0600" channel="Canal AYM Sports">
+    <title lang="es">Gancho al Hígado</title>
+  </programme>
+  <programme start="20230123070000 -0600" stop="20230123080000 -0600" channel="Canal AYM Sports">
+    <title lang="es">Hoy Futbol</title>
+  </programme>
+  <programme start="20230123080000 -0600" stop="20230123093000 -0600" channel="Canal AYM Sports">
+    <title lang="es">Boxeo</title>
+  </programme>
+  <programme start="20230123093000 -0600" stop="20230123140000 -0600" channel="Canal AYM Sports">
+    <title lang="es">Béisbol Liga Mexicana</title>
+  </programme>
+  <programme start="20230123140000 -0600" stop="20230123150000 -0600" channel="Canal AYM Sports">
+    <title lang="es">En los deportes, vámonos de largo</title>
+  </programme>
+  <programme start="20230123150000 -0600" stop="20230123153000 -0600" channel="Canal AYM Sports">
+    <title lang="es">Alta Velocidad</title>
+  </programme>
+  <programme start="20230123153000 -0600" stop="20230123160000 -0600" channel="Canal AYM Sports">
+    <title lang="es">Encendiendo las redes</title>
+  </programme>
+  <programme start="20230123160000 -0600" stop="20230123180000 -0600" channel="Canal AYM Sports">
+    <title lang="es">Fútbol Mexicano Liga Premier Serie A</title>
+  </programme>
+  <programme start="20230123180000 -0600" stop="20230123190000 -0600" channel="Canal AYM Sports">
+    <title lang="es">En los deportes, vámonos de largo</title>
+  </programme>
+  <programme start="20230123190000 -0600" stop="20230123200000 -0600" channel="Canal AYM Sports">
+    <title lang="es">Bolita por favor</title>
+  </programme>
+  <programme start="20230123200000 -0600" stop="20230123220000 -0600" channel="Canal AYM Sports">
+    <title lang="es">Fútbol Mexicano Liga Premier Serie A</title>
+  </programme>
+  <programme start="20230123220000 -0600" stop="20230123230000 -0600" channel="Canal AYM Sports">
+    <title lang="es">Ultra MX</title>
+  </programme>
+  <programme start="20230123230000 -0600" stop="20230124000000 -0600" channel="Canal AYM Sports">
+    <title lang="es">Hoy Futbol</title>
+  </programme>
+  <programme start="20230123010000 -0600" stop="20230123023000 -0600" channel="Canal Cinema">
+    <title lang="es">Los murciélagos</title>
+  </programme>
+  <programme start="20230123023000 -0600" stop="20230123040000 -0600" channel="Canal Cinema">
+    <title lang="es">Ratas de la Ciudad</title>
+  </programme>
+  <programme start="20230123040000 -0600" stop="20230123053000 -0600" channel="Canal Cinema">
+    <title lang="es">Alerta, alta tensión</title>
+  </programme>
+  <programme start="20230123053000 -0600" stop="20230123060000 -0600" channel="Canal Cinema">
+    <title lang="es">Intermedio Cinema</title>
+  </programme>
+  <programme start="20230123060000 -0600" stop="20230123063000 -0600" channel="Canal Cinema">
+    <title lang="es">Intermedio Cinema</title>
+  </programme>
+  <programme start="20230123063000 -0600" stop="20230123080000 -0600" channel="Canal Cinema">
+    <title lang="es">Chucho el Roto</title>
+  </programme>
+  <programme start="20230123080000 -0600" stop="20230123093000 -0600" channel="Canal Cinema">
+    <title lang="es">Rostro infernal</title>
+  </programme>
+  <programme start="20230123093000 -0600" stop="20230123100000 -0600" channel="Canal Cinema">
+    <title lang="es">Intermedio Cinema</title>
+  </programme>
+  <programme start="20230123100000 -0600" stop="20230123113000 -0600" channel="Canal Cinema">
+    <title lang="es">Fierecilla</title>
+  </programme>
+  <programme start="20230123113000 -0600" stop="20230123130000 -0600" channel="Canal Cinema">
+    <title lang="es">Kermesse</title>
+  </programme>
+  <programme start="20230123130000 -0600" stop="20230123133000 -0600" channel="Canal Cinema">
+    <title lang="es">Intermedio Cinema</title>
+  </programme>
+  <programme start="20230123133000 -0600" stop="20230123150000 -0600" channel="Canal Cinema">
+    <title lang="es">El temerario</title>
+  </programme>
+  <programme start="20230123150000 -0600" stop="20230123163000 -0600" channel="Canal Cinema">
+    <title lang="es">El pícaro</title>
+  </programme>
+  <programme start="20230123163000 -0600" stop="20230123170000 -0600" channel="Canal Cinema">
+    <title lang="es">Intermedio Cinema</title>
+  </programme>
+  <programme start="20230123170000 -0600" stop="20230123183000 -0600" channel="Canal Cinema">
+    <title lang="es">Fierecilla</title>
+  </programme>
+  <programme start="20230123183000 -0600" stop="20230123200000 -0600" channel="Canal Cinema">
+    <title lang="es">Sucedió en Jalisco</title>
+  </programme>
+  <programme start="20230123200000 -0600" stop="20230123203000 -0600" channel="Canal Cinema">
+    <title lang="es">Intermedio Cinema</title>
+  </programme>
+  <programme start="20230123203000 -0600" stop="20230123220000 -0600" channel="Canal Cinema">
+    <title lang="es">El temerario</title>
+  </programme>
+  <programme start="20230123220000 -0600" stop="20230123233000 -0600" channel="Canal Cinema">
+    <title lang="es">Aventuras del Látigo Negro IV: La muerte pasa lista</title>
+  </programme>
+  <programme start="20230123233000 -0600" stop="20230124010000 -0600" channel="Canal Cinema">
+    <title lang="es">El mil abusos</title>
+  </programme>
+  <programme start="20230123010000 -0600" stop="20230123020000 -0600" channel="Canal Clic">
+    <title lang="es">El sabor de la historia</title>
+  </programme>
+  <programme start="20230123020000 -0600" stop="20230123030000 -0600" channel="Canal Clic">
+    <title lang="es">Artesanos</title>
+  </programme>
+  <programme start="20230123030000 -0600" stop="20230123060000 -0600" channel="Canal Clic">
+    <title lang="es">Fronteras</title>
+  </programme>
+  <programme start="20230123060000 -0600" stop="20230123070000 -0600" channel="Canal Clic">
+    <title lang="es">Un dia a la vez</title>
+  </programme>
+  <programme start="20230123070000 -0600" stop="20230123080000 -0600" channel="Canal Clic">
+    <title lang="es">Vida y salud</title>
+  </programme>
+  <programme start="20230123080000 -0600" stop="20230123083000 -0600" channel="Canal Clic">
+    <title lang="es">Yoga y tu</title>
+  </programme>
+  <programme start="20230123083000 -0600" stop="20230123090000 -0600" channel="Canal Clic">
+    <title lang="es">Transformarte</title>
+  </programme>
+  <programme start="20230123090000 -0600" stop="20230123100000 -0600" channel="Canal Clic">
+    <title lang="es">Fragamente hablando</title>
+  </programme>
+  <programme start="20230123100000 -0600" stop="20230123113000 -0600" channel="Canal Clic">
+    <title lang="es">Mundo de mujeres</title>
+  </programme>
+  <programme start="20230123113000 -0600" stop="20230123120000 -0600" channel="Canal Clic">
+    <title lang="es">Yoga y tu</title>
+  </programme>
+  <programme start="20230123120000 -0600" stop="20230123130000 -0600" channel="Canal Clic">
+    <title lang="es">Dos de viaje</title>
+  </programme>
+  <programme start="20230123130000 -0600" stop="20230123140000 -0600" channel="Canal Clic">
+    <title lang="es">Fronteras</title>
+  </programme>
+  <programme start="20230123140000 -0600" stop="20230123143000 -0600" channel="Canal Clic">
+    <title lang="es">Kitchen Power</title>
+  </programme>
+  <programme start="20230123143000 -0600" stop="20230123150000 -0600" channel="Canal Clic">
+    <title lang="es">Tecno life</title>
+  </programme>
+  <programme start="20230123150000 -0600" stop="20230123160000 -0600" channel="Canal Clic">
+    <title lang="es">Un dia a la vez</title>
+  </programme>
+  <programme start="20230123160000 -0600" stop="20230123163000 -0600" channel="Canal Clic">
+    <title lang="es">Circuito Argentina</title>
+  </programme>
+  <programme start="20230123163000 -0600" stop="20230123170000 -0600" channel="Canal Clic">
+    <title lang="es">Hoyo 19</title>
+  </programme>
+  <programme start="20230123170000 -0600" stop="20230123183000 -0600" channel="Canal Clic">
+    <title lang="es">Mundo de mujeres</title>
+  </programme>
+  <programme start="20230123183000 -0600" stop="20230123190000 -0600" channel="Canal Clic">
+    <title lang="es">Fragamente hablando</title>
+  </programme>
+  <programme start="20230123190000 -0600" stop="20230123200000 -0600" channel="Canal Clic">
+    <title lang="es">Mis noches sin ti</title>
+  </programme>
+  <programme start="20230123200000 -0600" stop="20230123210000 -0600" channel="Canal Clic">
+    <title lang="es">Dos de viaje</title>
+  </programme>
+  <programme start="20230123210000 -0600" stop="20230123220000 -0600" channel="Canal Clic">
+    <title lang="es">Fronteras</title>
+  </programme>
+  <programme start="20230123220000 -0600" stop="20230123230000 -0600" channel="Canal Clic">
+    <title lang="es">Mis noches sin ti</title>
+  </programme>
+  <programme start="20230123230000 -0600" stop="20230123233000 -0600" channel="Canal Clic">
+    <title lang="es">Circuito Argentina</title>
+  </programme>
+  <programme start="20230123233000 -0600" stop="20230124000000 -0600" channel="Canal Clic">
+    <title lang="es">Hoyo 19</title>
+  </programme>
+  <programme start="20230123001200 -0600" stop="20230123010000 -0600" channel="Canal AZCorazón">
+    <title lang="es">La Loba</title>
+  </programme>
+  <programme start="20230123010000 -0600" stop="20230123020000 -0600" channel="Canal AZCorazón">
+    <title lang="es">Mujeres RS</title>
+  </programme>
+  <programme start="20230123020000 -0600" stop="20230123024800 -0600" channel="Canal AZCorazón">
+    <title lang="es">Quiéreme tonto</title>
+  </programme>
+  <programme start="20230123024800 -0600" stop="20230123033600 -0600" channel="Canal AZCorazón">
+    <title lang="es">Quiéreme tonto</title>
+  </programme>
+  <programme start="20230123033600 -0600" stop="20230123042400 -0600" channel="Canal AZCorazón">
+    <title lang="es">Quiéreme tonto</title>
+  </programme>
+  <programme start="20230123042400 -0600" stop="20230123051200 -0600" channel="Canal AZCorazón">
+    <title lang="es">Quiéreme tonto</title>
+  </programme>
+  <programme start="20230123051200 -0600" stop="20230123060000 -0600" channel="Canal AZCorazón">
+    <title lang="es">Quiéreme tonto</title>
+  </programme>
+  <programme start="20230123060000 -0600" stop="20230123064500 -0600" channel="Canal AZCorazón">
+    <title lang="es">Deseo prohibido</title>
+  </programme>
+  <programme start="20230123064500 -0600" stop="20230123073000 -0600" channel="Canal AZCorazón">
+    <title lang="es">Deseo prohibido</title>
+  </programme>
+  <programme start="20230123073000 -0600" stop="20230123081500 -0600" channel="Canal AZCorazón">
+    <title lang="es">Quiéreme tonto</title>
+  </programme>
+  <programme start="20230123081500 -0600" stop="20230123090000 -0600" channel="Canal AZCorazón">
+    <title lang="es">Quiéreme tonto</title>
+  </programme>
+  <programme start="20230123090000 -0600" stop="20230123094500 -0600" channel="Canal AZCorazón">
+    <title lang="es">Mientras haya vida</title>
+  </programme>
+  <programme start="20230123094500 -0600" stop="20230123103000 -0600" channel="Canal AZCorazón">
+    <title lang="es">Mientras haya vida</title>
+  </programme>
+  <programme start="20230123103000 -0600" stop="20230123111500 -0600" channel="Canal AZCorazón">
+    <title lang="es">La Loba</title>
+  </programme>
+  <programme start="20230123111500 -0600" stop="20230123120000 -0600" channel="Canal AZCorazón">
+    <title lang="es">La Loba</title>
+  </programme>
+  <programme start="20230123120000 -0600" stop="20230123124500 -0600" channel="Canal AZCorazón">
+    <title lang="es">Deseo prohibido</title>
+  </programme>
+  <programme start="20230123124500 -0600" stop="20230123133000 -0600" channel="Canal AZCorazón">
+    <title lang="es">Deseo prohibido</title>
+  </programme>
+  <programme start="20230123133000 -0600" stop="20230123141500 -0600" channel="Canal AZCorazón">
+    <title lang="es">Quiéreme tonto</title>
+  </programme>
+  <programme start="20230123141500 -0600" stop="20230123150000 -0600" channel="Canal AZCorazón">
+    <title lang="es">Quiéreme tonto</title>
+  </programme>
+  <programme start="20230123150000 -0600" stop="20230123154500 -0600" channel="Canal AZCorazón">
+    <title lang="es">Mientras haya vida</title>
+  </programme>
+  <programme start="20230123154500 -0600" stop="20230123163000 -0600" channel="Canal AZCorazón">
+    <title lang="es">Mientras haya vida</title>
+  </programme>
+  <programme start="20230123163000 -0600" stop="20230123171500 -0600" channel="Canal AZCorazón">
+    <title lang="es">La Loba</title>
+  </programme>
+  <programme start="20230123171500 -0600" stop="20230123180000 -0600" channel="Canal AZCorazón">
+    <title lang="es">La Loba</title>
+  </programme>
+  <programme start="20230123180000 -0600" stop="20230123184500 -0600" channel="Canal AZCorazón">
+    <title lang="es">Deseo prohibido</title>
+  </programme>
+  <programme start="20230123184500 -0600" stop="20230123193000 -0600" channel="Canal AZCorazón">
+    <title lang="es">Deseo prohibido</title>
+  </programme>
+  <programme start="20230123193000 -0600" stop="20230123201500 -0600" channel="Canal AZCorazón">
+    <title lang="es">Quiéreme tonto</title>
+  </programme>
+  <programme start="20230123201500 -0600" stop="20230123210000 -0600" channel="Canal AZCorazón">
+    <title lang="es">Quiéreme tonto</title>
+  </programme>
+  <programme start="20230123210000 -0600" stop="20230123214500 -0600" channel="Canal AZCorazón">
+    <title lang="es">Mientras haya vida</title>
+  </programme>
+  <programme start="20230123214500 -0600" stop="20230123223000 -0600" channel="Canal AZCorazón">
+    <title lang="es">Mientras haya vida</title>
+  </programme>
+  <programme start="20230123223000 -0600" stop="20230123231500 -0600" channel="Canal AZCorazón">
+    <title lang="es">La Loba</title>
+  </programme>
+  <programme start="20230123231500 -0600" stop="20230124000000 -0600" channel="Canal AZCorazón">
+    <title lang="es">La Loba</title>
+  </programme>
+  <programme start="20230123020000 -0600" stop="20230123030000 -0600" channel="Canal AZMundo">
+    <title lang="es">En sus Batallas</title>
+  </programme>
+  <programme start="20230123030000 -0600" stop="20230123033000 -0600" channel="Canal AZMundo">
+    <title lang="es">Creaciones mágicas</title>
+  </programme>
+  <programme start="20230123033000 -0600" stop="20230123043000 -0600" channel="Canal AZMundo">
+    <title lang="es">Frente a todos</title>
+  </programme>
+  <programme start="20230123043000 -0600" stop="20230123050000 -0600" channel="Canal AZMundo">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20230123050000 -0600" stop="20230123060000 -0600" channel="Canal AZMundo">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20230123060000 -0600" stop="20230123070000 -0600" channel="Canal AZMundo">
+    <title lang="es">Hechos A.M. Primera línea</title>
+  </programme>
+  <programme start="20230123070000 -0600" stop="20230123080000 -0600" channel="Canal AZMundo">
+    <title lang="es">Hechos A.M</title>
+  </programme>
+  <programme start="20230123080000 -0600" stop="20230123090000 -0600" channel="Canal AZMundo">
+    <title lang="es">Hechos: Aquí entre nos</title>
+  </programme>
+  <programme start="20230123090000 -0600" stop="20230123110000 -0600" channel="Canal AZMundo">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20230123110000 -0600" stop="20230123130000 -0600" channel="Canal AZMundo">
+    <title lang="es">Venga la alegría</title>
+  </programme>
+  <programme start="20230123130000 -0600" stop="20230123140000 -0600" channel="Canal AZMundo">
+    <title lang="es">Ventaneando</title>
+  </programme>
+  <programme start="20230123140000 -0600" stop="20230123150000 -0600" channel="Canal AZMundo">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20230123150000 -0600" stop="20230123153000 -0600" channel="Canal AZMundo">
+    <title lang="es">Cocinísima</title>
+  </programme>
+  <programme start="20230123153000 -0600" stop="20230123160000 -0600" channel="Canal AZMundo">
+    <title lang="es">Creaciones mágicas</title>
+  </programme>
+  <programme start="20230123160000 -0600" stop="20230123173000 -0600" channel="Canal AZMundo">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20230123173000 -0600" stop="20230123193000 -0600" channel="Canal AZMundo">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20230123193000 -0600" stop="20230123203000 -0600" channel="Canal AZMundo">
+    <title lang="es">Chisme No Like</title>
+  </programme>
+  <programme start="20230123203000 -0600" stop="20230123213000 -0600" channel="Canal AZMundo">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20230123213000 -0600" stop="20230123223000 -0600" channel="Canal AZMundo">
+    <title lang="es">Tercer milenio</title>
+  </programme>
+  <programme start="20230123223000 -0600" stop="20230123231500 -0600" channel="Canal AZMundo">
+    <title lang="es">Noticiero</title>
+  </programme>
+  <programme start="20230123231500 -0600" stop="20230123233000 -0600" channel="Canal AZMundo">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20230123003000 -0600" stop="20230123023000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123023000 -0600" stop="20230123043000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123043000 -0600" stop="20230123050000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123050000 -0600" stop="20230123051500 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123051500 -0600" stop="20230123053000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20230123053000 -0600" stop="20230123060000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123060000 -0600" stop="20230123063000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Octonautas</title>
+  </programme>
+  <programme start="20230123063000 -0600" stop="20230123073000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">El Hotel Furchester</title>
+  </programme>
+  <programme start="20230123073000 -0600" stop="20230123080000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20230123080000 -0600" stop="20230123083000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">44 Gatos</title>
+  </programme>
+  <programme start="20230123083000 -0600" stop="20230123090000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Bluey</title>
+  </programme>
+  <programme start="20230123090000 -0600" stop="20230123100000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">My Little Pony La magia</title>
+  </programme>
+  <programme start="20230123100000 -0600" stop="20230123110000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Power Rangers Dino Fury</title>
+  </programme>
+  <programme start="20230123110000 -0600" stop="20230123120000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">LEGO Friends Chicas</title>
+  </programme>
+  <programme start="20230123120000 -0600" stop="20230123130000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20230123130000 -0600" stop="20230123140000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Alvin y las ardillas</title>
+  </programme>
+  <programme start="20230123140000 -0600" stop="20230123150000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Los Padrinos Mágicos</title>
+  </programme>
+  <programme start="20230123150000 -0600" stop="20230123163000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Kung Fu Panda Las patitas</title>
+  </programme>
+  <programme start="20230123163000 -0600" stop="20230123173000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Dragon Ball</title>
+  </programme>
+  <programme start="20230123173000 -0600" stop="20230123183000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Dragon Ball Z</title>
+  </programme>
+  <programme start="20230123183000 -0600" stop="20230123203000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Almas perdidas</title>
+  </programme>
+  <programme start="20230123203000 -0600" stop="20230123223000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Un Día para Vivir</title>
+  </programme>
+  <programme start="20230123223000 -0600" stop="20230123233000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">S.W.A.T</title>
+  </programme>
+  <programme start="20230123233000 -0600" stop="20230124003000 -0600" channel="Canal Azteca 7  (México)">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20230123001500 -0600" stop="20230123004500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Farmacias Similares</title>
+  </programme>
+  <programme start="20230123004500 -0600" stop="20230123024500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123024500 -0600" stop="20230123044500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123044500 -0600" stop="20230123050000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123050000 -0600" stop="20230123053000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Que Cotorreo</title>
+  </programme>
+  <programme start="20230123053000 -0600" stop="20230123060000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123060000 -0600" stop="20230123070000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos A.M. Primera línea</title>
+  </programme>
+  <programme start="20230123070000 -0600" stop="20230123080000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos AM</title>
+  </programme>
+  <programme start="20230123080000 -0600" stop="20230123090000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos: Aquí entre nos</title>
+  </programme>
+  <programme start="20230123090000 -0600" stop="20230123130000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Venga la alegría En Vivo</title>
+  </programme>
+  <programme start="20230123130000 -0600" stop="20230123140000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Ventaneando</title>
+  </programme>
+  <programme start="20230123140000 -0600" stop="20230123150000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos meridiano</title>
+  </programme>
+  <programme start="20230123150000 -0600" stop="20230123160000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Escape Perfecto</title>
+  </programme>
+  <programme start="20230123160000 -0600" stop="20230123173000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Al extremo</title>
+  </programme>
+  <programme start="20230123173000 -0600" stop="20230123193000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Acércate a Rocío</title>
+  </programme>
+  <programme start="20230123193000 -0600" stop="20230123203000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20230123203000 -0600" stop="20230123223000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Exatlón México</title>
+  </programme>
+  <programme start="20230123223000 -0600" stop="20230123231500 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos de la noche</title>
+  </programme>
+  <programme start="20230123231500 -0600" stop="20230123233000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Hechos CDMX</title>
+  </programme>
+  <programme start="20230123233000 -0600" stop="20230124000000 -0600" channel="Canal Azteca Uno">
+    <title lang="es">Los protagonistas</title>
+  </programme>
+  <programme start="20230123003000 -0600" stop="20230123012500 -0600" channel="Canal Bitme">
+    <title lang="es">Las 13 esposas de Wilson F</title>
+  </programme>
+  <programme start="20230123012500 -0600" stop="20230123022500 -0600" channel="Canal Bitme">
+    <title lang="es">Cuenta pendiente</title>
+  </programme>
+  <programme start="20230123022500 -0600" stop="20230123031500 -0600" channel="Canal Bitme">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20230123031500 -0600" stop="20230123041000 -0600" channel="Canal Bitme">
+    <title lang="es">Las 13 esposas de Wilson F</title>
+  </programme>
+  <programme start="20230123041000 -0600" stop="20230123050500 -0600" channel="Canal Bitme">
+    <title lang="es">Cuenta pendiente</title>
+  </programme>
+  <programme start="20230123050500 -0600" stop="20230123055500 -0600" channel="Canal Bitme">
+    <title lang="es">Érase una vez</title>
+  </programme>
+  <programme start="20230123055500 -0600" stop="20230123064500 -0600" channel="Canal Bitme">
+    <title lang="es">Fear the Walking Dead</title>
+  </programme>
+  <programme start="20230123064500 -0600" stop="20230123074500 -0600" channel="Canal Bitme">
+    <title lang="es">Súper X</title>
+  </programme>
+  <programme start="20230123074500 -0600" stop="20230123083500 -0600" channel="Canal Bitme">
+    <title lang="es">Universo marcial</title>
+  </programme>
+  <programme start="20230123083500 -0600" stop="20230123102500 -0600" channel="Canal Bitme">
+    <title lang="es">Deep el Pulpo</title>
+  </programme>
+  <programme start="20230123102500 -0600" stop="20230123105000 -0600" channel="Canal Bitme">
+    <title lang="es">El chapulin colorado animado</title>
+  </programme>
+  <programme start="20230123105000 -0600" stop="20230123114500 -0600" channel="Canal Bitme">
+    <title lang="es">el chavo animado</title>
+  </programme>
+  <programme start="20230123114500 -0600" stop="20230123133500 -0600" channel="Canal Bitme">
+    <title lang="es">Deep el Pulpo</title>
+  </programme>
+  <programme start="20230123133500 -0600" stop="20230123142500 -0600" channel="Canal Bitme">
+    <title lang="es">Assassination classroom</title>
+  </programme>
+  <programme start="20230123142500 -0600" stop="20230123151500 -0600" channel="Canal Bitme">
+    <title lang="es">Attack on Titan</title>
+  </programme>
+  <programme start="20230123151500 -0600" stop="20230123160500 -0600" channel="Canal Bitme">
+    <title lang="es">My hero academy</title>
+  </programme>
+  <programme start="20230123160500 -0600" stop="20230123170000 -0600" channel="Canal Bitme">
+    <title lang="es">el chavo animado</title>
+  </programme>
+  <programme start="20230123170000 -0600" stop="20230123174000 -0600" channel="Canal Bitme">
+    <title lang="es">El chapulin colorado animado</title>
+  </programme>
+  <programme start="20230123174000 -0600" stop="20230123193000 -0600" channel="Canal Bitme">
+    <title lang="es">My Little Pony la película</title>
+  </programme>
+  <programme start="20230123193000 -0600" stop="20230123202000 -0600" channel="Canal Bitme">
+    <title lang="es">My hero academy</title>
+  </programme>
+  <programme start="20230123202000 -0600" stop="20230123211000 -0600" channel="Canal Bitme">
+    <title lang="es">Assassination classroom</title>
+  </programme>
+  <programme start="20230123211000 -0600" stop="20230123220000 -0600" channel="Canal Bitme">
+    <title lang="es">Attack on Titan</title>
+  </programme>
+  <programme start="20230123220000 -0600" stop="20230123234000 -0600" channel="Canal Bitme">
+    <title lang="es">Inquilinos</title>
+  </programme>
+  <programme start="20230123234000 -0600" stop="20230124003000 -0600" channel="Canal Bitme">
+    <title lang="es">Érase una vez</title>
+  </programme>
+  <programme start="20230123010000 -0600" stop="20230123020000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20230123020000 -0600" stop="20230123030000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20230123030000 -0600" stop="20230123040000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20230123040000 -0600" stop="20230123050000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Scooby Doo y ¿quién crees tú</title>
+  </programme>
+  <programme start="20230123050000 -0600" stop="20230123060000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Masha y el Oso</title>
+  </programme>
+  <programme start="20230123060000 -0600" stop="20230123061500 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Blippi</title>
+  </programme>
+  <programme start="20230123061500 -0600" stop="20230123063000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">La Granja de Zenón</title>
+  </programme>
+  <programme start="20230123063000 -0600" stop="20230123070000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Sésamo</title>
+  </programme>
+  <programme start="20230123070000 -0600" stop="20230123073000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Mecha Builders</title>
+  </programme>
+  <programme start="20230123073000 -0600" stop="20230123080000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Masha y el Oso</title>
+  </programme>
+  <programme start="20230123080000 -0600" stop="20230123083000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Thomas and Friends</title>
+  </programme>
+  <programme start="20230123083000 -0600" stop="20230123090000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20230123090000 -0600" stop="20230123091500 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Mundo Bita - Imagine-se</title>
+  </programme>
+  <programme start="20230123091500 -0600" stop="20230123093000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Hey Duggee</title>
+  </programme>
+  <programme start="20230123093000 -0600" stop="20230123100000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Odo</title>
+  </programme>
+  <programme start="20230123100000 -0600" stop="20230123103000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20230123103000 -0600" stop="20230123110000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20230123110000 -0600" stop="20230123113000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Batwheels</title>
+  </programme>
+  <programme start="20230123113000 -0600" stop="20230123120000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Mónica y su pandilla</title>
+  </programme>
+  <programme start="20230123120000 -0600" stop="20230123123000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Masha y el Oso</title>
+  </programme>
+  <programme start="20230123123000 -0600" stop="20230123130000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Bugs Bunny Builders</title>
+  </programme>
+  <programme start="20230123130000 -0600" stop="20230123133000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Mush-Mush y los Mushables</title>
+  </programme>
+  <programme start="20230123133000 -0600" stop="20230123140000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">La casa de muñecas de Gabby</title>
+  </programme>
+  <programme start="20230123140000 -0600" stop="20230123143000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20230123143000 -0600" stop="20230123150000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Hey Duggee</title>
+  </programme>
+  <programme start="20230123150000 -0600" stop="20230123153000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Masha y el Oso</title>
+  </programme>
+  <programme start="20230123153000 -0600" stop="20230123160000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Bugs Bunny Builders</title>
+  </programme>
+  <programme start="20230123160000 -0600" stop="20230123163000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Batwheels</title>
+  </programme>
+  <programme start="20230123163000 -0600" stop="20230123170000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20230123170000 -0600" stop="20230123173000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Odo</title>
+  </programme>
+  <programme start="20230123173000 -0600" stop="20230123174500 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Morphle</title>
+  </programme>
+  <programme start="20230123174500 -0600" stop="20230123180000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">La Granja de Zenón</title>
+  </programme>
+  <programme start="20230123180000 -0600" stop="20230123190000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Masha y el Oso</title>
+  </programme>
+  <programme start="20230123190000 -0600" stop="20230123193000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">La casa de muñecas de Gabby</title>
+  </programme>
+  <programme start="20230123193000 -0600" stop="20230123200000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Bugs Bunny Builders</title>
+  </programme>
+  <programme start="20230123200000 -0600" stop="20230123203000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Grizzy and the lemmings</title>
+  </programme>
+  <programme start="20230123203000 -0600" stop="20230123210000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Mush-Mush y los Mushables</title>
+  </programme>
+  <programme start="20230123210000 -0600" stop="20230123213000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Lucas the Spider</title>
+  </programme>
+  <programme start="20230123213000 -0600" stop="20230123220000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Batwheels</title>
+  </programme>
+  <programme start="20230123220000 -0600" stop="20230123223000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">La Granja de Zenón</title>
+  </programme>
+  <programme start="20230123223000 -0600" stop="20230123224500 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">CoComelon</title>
+  </programme>
+  <programme start="20230123224500 -0600" stop="20230123230000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Cleo y Cuquín</title>
+  </programme>
+  <programme start="20230123230000 -0600" stop="20230123233000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Pocoyó</title>
+  </programme>
+  <programme start="20230123233000 -0600" stop="20230124000000 -0600" channel="Canal Cartoonito (México)">
+    <title lang="es">Oddbods</title>
+  </programme>
+  <programme start="20230123020000 -0600" stop="20230123040000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123040000 -0600" stop="20230123043000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123043000 -0600" stop="20230123050000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20230123050000 -0600" stop="20230123063000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20230123063000 -0600" stop="20230123070000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Peter Rabbit</title>
+  </programme>
+  <programme start="20230123070000 -0600" stop="20230123073000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Baby Shark's Big Show</title>
+  </programme>
+  <programme start="20230123073000 -0600" stop="20230123080000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Rusty Rivets</title>
+  </programme>
+  <programme start="20230123080000 -0600" stop="20230123083000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Peppa Pig</title>
+  </programme>
+  <programme start="20230123083000 -0600" stop="20230123090000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">PJ Masks: Héroes en Pijamas</title>
+  </programme>
+  <programme start="20230123090000 -0600" stop="20230123100000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">El ascenso de las tortugas</title>
+  </programme>
+  <programme start="20230123100000 -0600" stop="20230123110000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Las aventuras del Gato</title>
+  </programme>
+  <programme start="20230123110000 -0600" stop="20230123120000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">El show de Tom y Jerry</title>
+  </programme>
+  <programme start="20230123120000 -0600" stop="20230123130000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Los Pingüinos de Madagascar</title>
+  </programme>
+  <programme start="20230123130000 -0600" stop="20230123140000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">The Loud House</title>
+  </programme>
+  <programme start="20230123140000 -0600" stop="20230123150000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Las aventuras de Ladybug</title>
+  </programme>
+  <programme start="20230123150000 -0600" stop="20230123160000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Bob Esponja</title>
+  </programme>
+  <programme start="20230123160000 -0600" stop="20230123170000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">100 cosas para hacer antes</title>
+  </programme>
+  <programme start="20230123170000 -0600" stop="20230123200000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">La CQ</title>
+  </programme>
+  <programme start="20230123200000 -0600" stop="20230123220000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">Tremors 5 Camino de sangre</title>
+  </programme>
+  <programme start="20230123220000 -0600" stop="20230124000000 -0600" channel="Canal 5 de México (XHGC)">
+    <title lang="es">La Reina del Sur</title>
+  </programme>
+  <programme start="20230123003100 -0600" stop="20230123005600 -0600" channel="Canal Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20230123005600 -0600" stop="20230123015700 -0600" channel="Canal Cartoon Network">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20230123015700 -0600" stop="20230123025600 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20230123025600 -0600" stop="20230123035700 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Steven universe</title>
+  </programme>
+  <programme start="20230123035700 -0600" stop="20230123045900 -0600" channel="Canal Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20230123045900 -0600" stop="20230123060000 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20230123060000 -0600" stop="20230123070300 -0600" channel="Canal Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20230123070300 -0600" stop="20230123072700 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Drama total: La guardería</title>
+  </programme>
+  <programme start="20230123072700 -0600" stop="20230123082700 -0600" channel="Canal Cartoon Network">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20230123082700 -0600" stop="20230123090400 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Manzana y Cebollín</title>
+  </programme>
+  <programme start="20230123090400 -0600" stop="20230123092900 -0600" channel="Canal Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20230123092900 -0600" stop="20230123102700 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20230123102700 -0600" stop="20230123110200 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Drama total: La guardería</title>
+  </programme>
+  <programme start="20230123110200 -0600" stop="20230123112600 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Barbie It Takes Two</title>
+  </programme>
+  <programme start="20230123112600 -0600" stop="20230123122700 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20230123122700 -0600" stop="20230123130400 -0600" channel="Canal Cartoon Network">
+    <title lang="es">We Baby Bears</title>
+  </programme>
+  <programme start="20230123130400 -0600" stop="20230123140300 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20230123140300 -0600" stop="20230123142700 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Drama total: La guardería</title>
+  </programme>
+  <programme start="20230123142700 -0600" stop="20230123150400 -0600" channel="Canal Cartoon Network">
+    <title lang="es">El mundo de Craig</title>
+  </programme>
+  <programme start="20230123150400 -0600" stop="20230123160200 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Drama total: La guardería</title>
+  </programme>
+  <programme start="20230123160200 -0600" stop="20230123165300 -0600" channel="Canal Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20230123165300 -0600" stop="20230123174500 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Escandalosos</title>
+  </programme>
+  <programme start="20230123174500 -0600" stop="20230123180000 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Lamput</title>
+  </programme>
+  <programme start="20230123180000 -0600" stop="20230123183400 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20230123183400 -0600" stop="20230123191400 -0600" channel="Canal Cartoon Network">
+    <title lang="es">We Baby Bears</title>
+  </programme>
+  <programme start="20230123191400 -0600" stop="20230123200000 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20230123200000 -0600" stop="20230123210300 -0600" channel="Canal Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+  <programme start="20230123210300 -0600" stop="20230123220200 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Drama total: La guardería</title>
+  </programme>
+  <programme start="20230123220200 -0600" stop="20230123230000 -0600" channel="Canal Cartoon Network">
+    <title lang="es">Los Jóvenes Titanes En Acción</title>
+  </programme>
+  <programme start="20230123230000 -0600" stop="20230124000300 -0600" channel="Canal Cartoon Network">
+    <title lang="es">El Increíble Mundo de Gumball</title>
+  </programme>
+</tv>
